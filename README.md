@@ -44,10 +44,6 @@ You are welcome to my GitHub Page. I am Stepan Morozov, I learn new things about
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
       <br>Linux
     </td>
-                <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
-      <br>Dart
-    </td>
   </tr>
  <tr>
  </tr>
