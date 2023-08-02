@@ -45,8 +45,6 @@ You are welcome to my GitHub Page. I am Stepan Morozov, I learn new things about
       <br>Linux
     </td>
   </tr>
- <tr>
- </tr>
 </table>
 
 <!--
